@@ -1,10 +1,10 @@
 {
-    "name": "testapidoc",
+    "name": "offline-open-api-converted",
     "version": "1.0.0",
-    "author": "elvism",
+    "author": "fedemauri",
     "main": "index.js",
     "description": "Node script to convert open-api (3.0) json to PDF document and static html page",
-    "repository": "https://github.com/fedema92/offline-open-api-converted",
+    "repository": "https://github.com/fedemauri/offline-open-api-converted",
     "dependencies": {
         "bootprint": "^1.0.2",
         "bootprint-base": "^1.1.0",
