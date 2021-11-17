@@ -1,4 +1,4 @@
-# Offline open-api converted
+# Offline open-api converter
 
 Node script to convert open-api (3.0) json to PDF document and static html page
 
