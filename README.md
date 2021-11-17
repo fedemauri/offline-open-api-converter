@@ -11,4 +11,4 @@ Update, if necessary, the output folder and files in `config.js`
 ## Convertion
 
 In order to start file convertion, be sure to have installed all dependencies with `npm i`.
-Start the node script with node `index.js` commands an wait the end of convertion
+Start the node script with `node index.js` commands an wait the end of convertion
